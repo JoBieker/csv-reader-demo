@@ -1,5 +1,5 @@
 # Getting Started
-Diese Referenzimplementierung zeigt, wie man mit Spring Batch:
+Diese Implementierung zeigt, wie man mit Spring Batch:
 + Aus einem Verzeichnis alle Dateien einliest, die auf '.csv' enden.
   + Voraussetzung ist, dass die Dateien alle die gleiche Struktur haben
 + Die Header der CSV-Dateien werden über die Attribute der Eigenschaften 
